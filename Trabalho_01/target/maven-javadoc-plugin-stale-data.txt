@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Nicolas/Desktop/Semestre Atual/Sistemas Operacionais II/Trabalho 01/Trabalho_01/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Nicolas/Desktop/Semestre Atual/Sistemas Operacionais II/Trabalho 01/Trabalho_01/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Trabalho_01 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Trabalho_01 1.0-SNAPSHOT API'
+Ex01
+Ex02
+Ex03
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\src\main\java = 1679403580924
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\allclasses-index.html = 1680198617297
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\allpackages-index.html = 1680198617306
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\element-list = 1680198617053
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\help-doc.html = 1680198617404
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\index-all.html = 1680198617375
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\index.html = 1680198617251
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\javadoc.bat = 1680197961123
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\jquery-ui.overrides.css = 1680198617461
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\member-search-index.js = 1680198617321
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\module-search-index.js = 1680198617309
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\overview-summary.html = 1680198617389
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\overview-tree.html = 1680198617242
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\package-search-index.js = 1680198617313
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\script.js = 1680198617413
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\search.js = 1680198617425
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\stylesheet.css = 1680198617410
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\tag-search-index.js = 1680198617323
+C:\Users\Nicolas\Desktop\Semestre Atual\Sistemas Operacionais II\Trabalho 01\Trabalho_01\target\site\apidocs\type-search-index.js = 1680198617317
